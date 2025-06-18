@@ -114,7 +114,3 @@ Check out a demo of the AI-Powered RFID Navigation Assistant in action:
 * **LinkedIn:**https://www.linkedin.com/in/navyashree-n-7bbab2280/
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Navyansgr&style=flat-square&color=purple" alt="Project Views">
-</div>
