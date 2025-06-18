@@ -28,18 +28,4 @@ It's an end-to-end solution demonstrating the integration of hardware (RFID read
 
 The system is designed for robustness and responsiveness, integrating hardware with cloud-based intelligence.
 
-<details>
-<summary><b>Click to expand Architecture Diagram (Conceptual)</b></summary>
-<br>
-Replace this with an actual diagram showing data flow. Example:
-```mermaid
-graph LR
-    A[RFID Tags (Environment)] --> B(Portable RFID Reader)
-    B --> C[Microcontroller/Edge Device (e.g., Raspberry Pi)]
-    C -- Wi-Fi/Cellular --> D[Cloud Data Ingestion (AWS IoT Core / Kinesis)]
-    D --> E[Location Processing & Mapping Service (Cloud Function/Lambda)]
-    E --> F[AI Navigation & Guidance Module (SageMaker Endpoint/ECS)]
-    F -- Audio Guidance --> G[User's Device (e.g., Speaker, App)]
-    H[Admin Dashboard / Map Management] -- Updates --> E
-    H -- Visuals --> F
-    I[Monitoring & Logging] --> D, E, F
+
